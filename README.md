@@ -1,2 +1,3 @@
 # LTE-WiFi-Coexistence-using-CNN-Transfer-Learning
 LTE technology in unlicensed bands (LTE-U) is a viable solution to the lack of spectrum resources. A friendly coexistence of LTE-U and Wi-Fi is achievable using CNN transfer learning. MATLAB deep learning toolbox was used to classify LTE-U and WiFi from the data collected from the SDR testbed using LabVIEW LTE and 802.11 framework. GoogleNet, AlexNet and ResNet algorithms were used to achieve an accuracy of 96.7%.
+![GoogleNet classification](https://github.com/melahi-utep/LTE-WiFi-Coexistence-using-CNN-Transfer-Learning/assets/25696590/7c6ba47a-eb9a-4a91-89fe-66b2f42ee42f)
